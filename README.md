@@ -34,7 +34,7 @@ A complete web application with user authentication, content management, and Str
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/sunken-lane.git
+   https://github.com/aarju-pradhan/sunken-lane-website.git
    ```
 2. Install dependencies:
    ```bash
@@ -45,7 +45,7 @@ A complete web application with user authentication, content management, and Str
    - Create a `.env` file with your Firebase config
 4. Run the development server:
    ```bash
-   npm start
+   npm run dev
    ```
 
 ## 🎥 Demo
