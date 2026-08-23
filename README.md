@@ -7,11 +7,17 @@ A complete web application with user authentication, content management, and Str
 
 ## 🚀 Features
 🔐 **Role-Based Access Control:** Admin and standard user roles
+
 🧾 **User Authentication:** Register, login, and password reset
+
 👤 **Profile Management:** View and edit user profiles
+
 🛒 **Stripe Integration:** Test payments for in-game content
+
 ✏️ **Content Management:** Admins can CRUD game content
+
 📱 **Responsive Design:** Works on all device sizes
+
 📈 **Analytics Dashboard:** Track user visits (mock data)
 
 ## 🛠️ Technologies Used
