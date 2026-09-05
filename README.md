@@ -51,9 +51,3 @@ A complete web application with user authentication, content management, and Str
    ```bash
    npm run dev
    ```
-- [API Reference](./docs/API.md)
-- [Testing Report](./docs/TESTING.md)
-
-## 📝 License
-
-This project is licensed under the MIT License.
