@@ -1,7 +1,5 @@
 # Sunken Lane - University Project
 
-![Sunken Lane Screenshot](./docs/screenshot.png)
-
 
 A complete web application with user authentication, content management, and Stripe payments integration.
 
@@ -53,14 +51,6 @@ A complete web application with user authentication, content management, and Str
    ```bash
    npm run dev
    ```
-
-## 🎥 Demo
-
-[![Watch the video](./docs/video-thumbnail.png)](https://youtu.be/your-demo-video)
-
-## 📚 Documentation
-
-- [Technical Design](./docs/DESIGN.md)
 - [API Reference](./docs/API.md)
 - [Testing Report](./docs/TESTING.md)
 
